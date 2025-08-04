@@ -1,4 +1,8 @@
 .vscode/
 logs/
 files/
+<<<<<<< HEAD
 tests/
+=======
+tests/
+>>>>>>> 3091ecb0a73c9e4cda46fe4990dbe66cd50228d8
