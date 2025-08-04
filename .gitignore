@@ -1,4 +1,7 @@
 .vscode/
 logs/
 files/
-src/tests/
+tests/test_client.c
+tests/test_server.c
+tests/test_protocol.c
+*.log
